@@ -9,6 +9,8 @@ body{
     color: white;
     border-top: 10px solid rgb(83, 198, 94);
     display: flex;
+    justify-content: space-around;
+    height: 600px;
 }
 
 .banner > div{
@@ -37,7 +39,13 @@ body{
     left: 150px:
 } */
 
+.icone{
+    display: flex;
+    justify-content: space-around;
+}
+
 .handa{
+    
     
 }
 
